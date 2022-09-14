@@ -19,7 +19,7 @@
 
 
 ### 💻 Tech Stack
-
+<div>
 <img height="20" src="https://img.shields.io/badge/Python-000000?style=flat-squar&logo=python&logoColor=3776AB&color=A2D4FE">
 <img height="20" src="https://img.shields.io/badge/Rust-000000?style=flat-squar&logo=rust&logoColor=000000&color=CECECE">
 <img height="20" src="https://img.shields.io/badge/TypeScript-000000?style=flat-squar&logo=TypeScript&logoColor=3178C6&color=B1C8E1">
@@ -36,3 +36,4 @@
 <img height="20" src="https://img.shields.io/badge/Neo4j-000000?style=flat-squar&logo=Neo4j&logoColor=008CC1&color=CDF1FF">
 
 <img height="20" src="https://img.shields.io/badge/Substrate-000000?style=flat-squar&logo=Parity Substrate&logoColor=282828&color=E1E1E1">
+</div>
