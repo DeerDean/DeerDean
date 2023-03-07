@@ -12,9 +12,10 @@
     <img  height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeviDean" />
 </div>
 
+<!-- 
 <div align="center">
     <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=LeviDean&theme=minimal" />
-</div>
+</div> -->
 
 
 
