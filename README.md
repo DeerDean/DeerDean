@@ -2,6 +2,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Ms+Madi&size=25&duration=6000&pause=1000&color=0E6228&vCenter=true&width=435&lines=Spend+your+life+in+your+own+way" alt="typing-svg">
 </p>
 
+<!--
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=LeviDean&theme=vue" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviDean&layout=compact&langs_count=8" />
@@ -12,7 +13,6 @@
     <img  height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeviDean" />
 </div>
 
-<!-- 
 <div align="center">
     <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=LeviDean&theme=minimal" />
 </div> -->
