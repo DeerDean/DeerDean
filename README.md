@@ -33,7 +33,6 @@
 <img height="20" src="https://img.shields.io/badge/PyG-000000?style=flat-squar&logo=PyG&logoColor=3C2179&color=CEDDFF">
 <img height="20" src="https://img.shields.io/badge/Numpy-000000?style=flat-squar&logo=Numpy&logoColor=013243&color=7BA6F3">
 <img height="20" src="https://img.shields.io/badge/spaCy-000000?style=flat-squar&logo=spaCy&logoColor=09A3D5&color=9ADFF5">
-<img height="20" src="https://img.shields.io/badge/Lightning-000000?style=flat-squar&logo=PyTorch Lightning&logoColor=792EE5&color=C39BFC">
 <img height="20" src="https://img.shields.io/badge/Neo4j-000000?style=flat-squar&logo=Neo4j&logoColor=008CC1&color=CDF1FF">
 <br/>
 <img height="20" src="https://img.shields.io/badge/Substrate-000000?style=flat-squar&logo=Parity Substrate&logoColor=282828&color=E1E1E1">
