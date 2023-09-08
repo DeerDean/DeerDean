@@ -15,7 +15,7 @@
 
 <div align="center">
     <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=LeviDean&theme=minimal" />
-</div> -->
+</div> 
 
 
 
@@ -36,4 +36,4 @@
 <img height="20" src="https://img.shields.io/badge/Neo4j-000000?style=flat-squar&logo=Neo4j&logoColor=008CC1&color=CDF1FF">
 <br/>
 <img height="20" src="https://img.shields.io/badge/Substrate-000000?style=flat-squar&logo=Parity Substrate&logoColor=282828&color=E1E1E1">
-</div>
+</div> -->
